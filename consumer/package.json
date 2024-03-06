@@ -1,0 +1,15 @@
+{
+    "name": "consumer",
+    "version": "1.0.0",
+    "description": "Consumer test for pact.io",
+    "author": "Dags27 <daniel.slizewski@gmail.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
